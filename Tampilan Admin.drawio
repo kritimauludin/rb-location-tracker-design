@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T05:49:19.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="is2mWHOpQMShSdesnaVh" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T13:14:29.528Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yXcHsZ3e6qcO3mhBHNlA" version="21.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1194" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="508" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -132,6 +132,12 @@
         <mxCell id="ZIuvK2Msw9qaPoizuIzn-6" value="2?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="118" y="360" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Bv7vFqMVVAqrgs6pJDl9-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZIuvK2Msw9qaPoizuIzn-17" target="ZIuvK2Msw9qaPoizuIzn-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bv7vFqMVVAqrgs6pJDl9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZIuvK2Msw9qaPoizuIzn-17" target="ZIuvK2Msw9qaPoizuIzn-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZIuvK2Msw9qaPoizuIzn-17" value="Basis Data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="307.29" y="500" width="100" height="60" as="geometry" />
         </mxCell>
@@ -189,7 +195,7 @@
         <mxCell id="ZIuvK2Msw9qaPoizuIzn-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZIuvK2Msw9qaPoizuIzn-59" target="ZIuvK2Msw9qaPoizuIzn-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZIuvK2Msw9qaPoizuIzn-59" value="Data Transaksi :&lt;br style=&quot;font-size: 10px;&quot;&gt;1. Peta Sebaran Pelanggan&lt;br&gt;2. Rekap Distribusi Koran" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ZIuvK2Msw9qaPoizuIzn-59" value="Grafik dan Rekap Data :&lt;br style=&quot;font-size: 10px;&quot;&gt;1. Peta Sebaran Pelanggan&lt;br&gt;2. Rekap Distribusi Koran" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="336.25" y="280" width="127.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZIuvK2Msw9qaPoizuIzn-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZIuvK2Msw9qaPoizuIzn-73" target="ZIuvK2Msw9qaPoizuIzn-75" edge="1">
