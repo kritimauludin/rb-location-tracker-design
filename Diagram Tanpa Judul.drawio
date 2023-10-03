@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T07:30:28.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eUOZ_399XNpydd-QoF5E" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T07:47:45.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="b8tIv0yDh82rqCmSRwbN" version="21.7.5" type="github">
   <diagram name="Halaman-1" id="Gs2Ffcup5_dVEuYB5EI6">
     <mxGraphModel dx="1194" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U8THxd92JIKKiJb9pITn-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Sistem Monitoring Distribusi Surat Kabar Kepada Pelanggan Berbasis &lt;i style=&quot;&quot;&gt;WEBGIS&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="U8THxd92JIKKiJb9pITn-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Sistem Monitoring Distribusi Surat Kabar Kepada Pelanggan Berbasis &lt;i style=&quot;&quot;&gt;WEBGIS&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="335" y="295" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="U8THxd92JIKKiJb9pITn-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Admin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U8THxd92JIKKiJb9pITn-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Admin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U8THxd92JIKKiJb9pITn-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Kurir&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U8THxd92JIKKiJb9pITn-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Kurir&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U8THxd92JIKKiJb9pITn-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U8THxd92JIKKiJb9pITn-3" target="U8THxd92JIKKiJb9pITn-1">
+        <mxCell id="U8THxd92JIKKiJb9pITn-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U8THxd92JIKKiJb9pITn-3" target="U8THxd92JIKKiJb9pITn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="430" as="sourcePoint" />
             <mxPoint x="460" y="380" as="targetPoint" />
@@ -23,12 +23,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U8THxd92JIKKiJb9pITn-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Login Kurir&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U8THxd92JIKKiJb9pITn-4">
+        <mxCell id="U8THxd92JIKKiJb9pITn-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;1. Login Kurir&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Status Pengiriman&lt;/div&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U8THxd92JIKKiJb9pITn-4" vertex="1" connectable="0">
           <mxGeometry x="0.0382" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U8THxd92JIKKiJb9pITn-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U8THxd92JIKKiJb9pITn-2" target="U8THxd92JIKKiJb9pITn-1">
+        <mxCell id="U8THxd92JIKKiJb9pITn-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U8THxd92JIKKiJb9pITn-2" target="U8THxd92JIKKiJb9pITn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="430" as="sourcePoint" />
             <mxPoint x="460" y="380" as="targetPoint" />
@@ -38,9 +38,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U8THxd92JIKKiJb9pITn-7" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium;&quot;&gt;1. Login Admin&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium;&quot;&gt;2. Data Kurir&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;3. Data Koran&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;4. Data Pelanggan&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;5. Data Distribusi&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U8THxd92JIKKiJb9pITn-6">
+        <mxCell id="U8THxd92JIKKiJb9pITn-7" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1. Login Admin&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;2.&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;&quot;&gt; Data Kurir&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;3. Data Koran&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;4. Data Pelanggan&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;5. Data Distribusi&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U8THxd92JIKKiJb9pITn-6" vertex="1" connectable="0">
           <mxGeometry x="0.0292" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPdGHQBrdOhNldDu16jw-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U8THxd92JIKKiJb9pITn-1" target="U8THxd92JIKKiJb9pITn-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="480" />
+              <mxPoint x="100" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPdGHQBrdOhNldDu16jw-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;1. Lihat Data&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; Pengiriman Harian&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Cetak Laporan&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; Distribusi Berkala&lt;/div&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YPdGHQBrdOhNldDu16jw-1">
+          <mxGeometry x="-0.0742" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPdGHQBrdOhNldDu16jw-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U8THxd92JIKKiJb9pITn-1" target="U8THxd92JIKKiJb9pITn-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="480" />
+              <mxPoint x="700" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPdGHQBrdOhNldDu16jw-6" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;1. Lihat Kinerja Kurir&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;2. Cetak Laporan&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp; &amp;nbsp; Kinerja Kurir&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;3. Cetak Laporan&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp; &amp;nbsp; Data Pelangan&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YPdGHQBrdOhNldDu16jw-2">
+          <mxGeometry x="-0.1101" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
