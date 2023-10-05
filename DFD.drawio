@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T14:01:40.123Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="gV1U_ooW5_ZgjWkGEMii" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T14:06:20.518Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="gMM4USlHdzOnl_KtyCi2" version="22.0.2" type="github">
   <diagram name="Halaman-1" id="zbL0tHS9NxCWWQ_GLFmR">
     <mxGraphModel dx="1137" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
             <mxPoint x="35" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L02m6PkvPeWe66beyYOA-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;5.0&lt;br&gt;Data Distribusi&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="L02m6PkvPeWe66beyYOA-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;6.0&lt;br&gt;Data Distribusi&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L02m6PkvPeWe66beyYOA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="L02m6PkvPeWe66beyYOA-12" target="L02m6PkvPeWe66beyYOA-8">
@@ -351,7 +351,7 @@
             <mxPoint x="42" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L02m6PkvPeWe66beyYOA-63" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;6.0&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;Kinerja Kurir" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="L02m6PkvPeWe66beyYOA-63" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;7.0&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;Kinerja Kurir" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="710" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
